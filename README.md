@@ -3,6 +3,7 @@
 This is the repository and source code for the technical component of the Code for America Fellowship application.
 
 **Language:** R (useful for working with datasets to generate quick data)
+
 **Presentation format:** Markdown table (can also easily output HTML, LaTeX)
 
 ####The Prompt
